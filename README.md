@@ -1,7 +1,7 @@
 # Image-Classification
 # Prerequisites
-	* Python 3.6+
-	* PyTorch 1.0+
+ - Python 3.6+
+ - PyTorch 1.0+
 # Training
 ```
 # Train with:
@@ -26,3 +26,4 @@ python test.py
 | [PreActResNet18](https://arxiv.org/abs/1603.05027)    |     |
 | [DPN92](https://arxiv.org/abs/1707.01629)             |      |
 | [DLA](https://arxiv.org/pdf/1707.06484.pdf)           |      |
+
