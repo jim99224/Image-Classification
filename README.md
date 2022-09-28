@@ -9,6 +9,7 @@ python main.py
 
 # Test with:
 python test.py
+123
 ```
 # Accuracy
 | Model             | Acc.        |
